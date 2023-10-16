@@ -12,7 +12,7 @@
 
 FROM gitpod/workspace-full
 # FROM oldfrostdragon/qt6-ubuntu
-FROM stateoftheartio/qt6
+# FROM stateoftheartio/qt6
 
 
 # Install necessary packages
