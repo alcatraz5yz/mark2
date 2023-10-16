@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/allan/Desktop/mark2/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/allan/Desktop/mark2/build -I/Users/allan/Desktop/mark2 -I/Users/allan/Desktop/mark2/build/MyProject_autogen/include -isystem /opt/homebrew/Cellar/qt/6.5.1_3/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/Cellar/qt/6.5.1_3/lib -isystem /opt/homebrew/Cellar/qt/6.5.1_3/lib/QtCore.framework/Headers -isystem /opt/homebrew/Cellar/qt/6.5.1_3/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/Cellar/qt/6.5.1_3/include -isystem /opt/homebrew/Cellar/qt/6.5.1_3/lib/QtGui.framework/Headers -isystem /usr/local/include  -fprofile-arcs -ftest-coverage -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/MyProject.dir/MyProject_autogen/mocs_compilation.cpp.o -c /Users/allan/Desktop/mark2/build/MyProject_autogen/mocs_compilation.cpp",
+  "file": "/Users/allan/Desktop/mark2/build/MyProject_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/MyProject.dir/MyProject_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/allan/Desktop/mark2/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/allan/Desktop/mark2/build -I/Users/allan/Desktop/mark2 -I/Users/allan/Desktop/mark2/build/MyProject_autogen/include -isystem /opt/homebrew/Cellar/qt/6.5.1_3/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/Cellar/qt/6.5.1_3/lib -isystem /opt/homebrew/Cellar/qt/6.5.1_3/lib/QtCore.framework/Headers -isystem /opt/homebrew/Cellar/qt/6.5.1_3/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/Cellar/qt/6.5.1_3/include -isystem /opt/homebrew/Cellar/qt/6.5.1_3/lib/QtGui.framework/Headers -isystem /usr/local/include  -fprofile-arcs -ftest-coverage -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/MyProject.dir/src/main.cpp.o -c /Users/allan/Desktop/mark2/src/main.cpp",
+  "file": "/Users/allan/Desktop/mark2/src/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/allan/Desktop/mark2/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/allan/Desktop/mark2/build -I/Users/allan/Desktop/mark2 -I/Users/allan/Desktop/mark2/build/tests_autogen/include -isystem /opt/homebrew/Cellar/qt/6.5.1_3/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/Cellar/qt/6.5.1_3/lib -isystem /opt/homebrew/Cellar/qt/6.5.1_3/lib/QtCore.framework/Headers -isystem /opt/homebrew/Cellar/qt/6.5.1_3/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/Cellar/qt/6.5.1_3/include -isystem /opt/homebrew/Cellar/qt/6.5.1_3/lib/QtGui.framework/Headers -isystem /usr/local/include -isystem /opt/homebrew/include  -fprofile-arcs -ftest-coverage -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/tests.dir/tests_autogen/mocs_compilation.cpp.o -c /Users/allan/Desktop/mark2/build/tests_autogen/mocs_compilation.cpp",
+  "file": "/Users/allan/Desktop/mark2/build/tests_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/tests.dir/tests_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/allan/Desktop/mark2/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/allan/Desktop/mark2/build -I/Users/allan/Desktop/mark2 -I/Users/allan/Desktop/mark2/build/tests_autogen/include -isystem /opt/homebrew/Cellar/qt/6.5.1_3/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/Cellar/qt/6.5.1_3/lib -isystem /opt/homebrew/Cellar/qt/6.5.1_3/lib/QtCore.framework/Headers -isystem /opt/homebrew/Cellar/qt/6.5.1_3/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/Cellar/qt/6.5.1_3/include -isystem /opt/homebrew/Cellar/qt/6.5.1_3/lib/QtGui.framework/Headers -isystem /usr/local/include -isystem /opt/homebrew/include  -fprofile-arcs -ftest-coverage -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/tests.dir/test/test_main.cpp.o -c /Users/allan/Desktop/mark2/test/test_main.cpp",
+  "file": "/Users/allan/Desktop/mark2/test/test_main.cpp",
+  "output": "CMakeFiles/tests.dir/test/test_main.cpp.o"
+}
+]

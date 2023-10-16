@@ -1,0 +1,12 @@
+/Users/allan/Desktop/mark2/build/CMakeFiles/docs.dir
+/Users/allan/Desktop/mark2/build/CMakeFiles/MyProject.dir
+/Users/allan/Desktop/mark2/build/CMakeFiles/tests.dir
+/Users/allan/Desktop/mark2/build/CMakeFiles/runtests.dir
+/Users/allan/Desktop/mark2/build/CMakeFiles/gcov.dir
+/Users/allan/Desktop/mark2/build/CMakeFiles/test.dir
+/Users/allan/Desktop/mark2/build/CMakeFiles/edit_cache.dir
+/Users/allan/Desktop/mark2/build/CMakeFiles/rebuild_cache.dir
+/Users/allan/Desktop/mark2/build/CMakeFiles/MyProject_autogen_timestamp_deps.dir
+/Users/allan/Desktop/mark2/build/CMakeFiles/MyProject_autogen.dir
+/Users/allan/Desktop/mark2/build/CMakeFiles/tests_autogen_timestamp_deps.dir
+/Users/allan/Desktop/mark2/build/CMakeFiles/tests_autogen.dir
